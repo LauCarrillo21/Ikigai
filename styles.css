@@ -1,0 +1,42 @@
+body {
+    font-family:'Quicksand', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 65px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    color:rgb(178, 176, 176);
+}
+
+h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+    color:rgb(81, 81, 81);
+}
+
+.main-container {
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 13px 17px rgba(27, 26, 26, 0.2);
+    background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+
+p {
+    text-align: center;
+    font-weight: 300;
+    font-size: 25px;
+    color:rgb(64, 64, 64);
+}
+
+img {
+    display: block;
+    margin:0 auto;
+}
