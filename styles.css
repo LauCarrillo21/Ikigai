@@ -40,3 +40,33 @@ img {
     display: block;
     margin:0 auto;
 }
+
+button {
+        font-size: 25px;
+        display: block;
+        margin: 0 auto;
+        font-weight: 400;
+        padding: 15px;
+        border-radius: 10px;
+        background:#90CACE;
+        border: 1px solid #90CACE;
+        color: #3a3a39;
+        transition: all 200ms ease-in-out;
+    }
+    
+button:hover {
+        background: #f5f7e2;
+        color:#000000;
+        border:#f5f7e2;
+        cursor: pointer;
+}
+
+footer {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
